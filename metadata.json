@@ -1,0 +1,6 @@
+{
+  "name": "Typeracer",
+  "description": "Bilingual (English & Mongolian) Typeracer speed typing practice game. Practice typing paragraphs with customizable vehicles, real-time WPM stats, error counting, and realistic bot difficulty levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
